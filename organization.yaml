@@ -1,0 +1,15 @@
+# Organization details (Source of Truth)
+# Fill in real business data when available; do not fabricate claims.
+
+business_name: ""
+owner_name: ""
+location: ""
+phone: ""
+email: ""
+equipment: []
+freight_types: []
+service_area: ""
+operating_authority: ""
+years_experience: ""
+current_load_sources: []
+business_goals: []

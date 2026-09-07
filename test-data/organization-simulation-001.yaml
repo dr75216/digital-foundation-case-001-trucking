@@ -1,0 +1,74 @@
+data_type: simulated
+production_approved: false
+simulation_id: intake-simulation-001
+
+business_name: "RJT Transport LLC"
+owner_name: "Marcus Taylor"
+location: "Dallas, Texas"
+phone: "(214) 555-0187"
+email: "rjttransport22@gmail.com"
+years_in_business: 4
+load_search_hours_per_week: "7-10"
+preferred_lanes:
+  - "Dallas-Houston"
+  - "Dallas-San Antonio"
+  - "Dallas-Oklahoma City"
+return_preference: "Prefers loads returning toward DFW"
+digital_presence:
+  website: false
+  domain: false
+  professional_email: false
+  google_business_profile: false
+  facebook: true
+  facebook_type: "personal presence"
+  logo: false
+  usable_photos: true
+
+operating_authority: "own authority"
+
+freight_types:
+  - "general non-hazmat dry freight"
+
+equipment:
+  - "2019 Freightliner Cascadia tractor"
+
+service_area: "Texas, Oklahoma, Louisiana and Arkansas"
+
+
+current_load_sources:
+  - "load boards"
+  - "freight brokers"
+  - "other carriers"
+  - "referrals"
+  - "repeat customers"
+
+business_goals:
+  - "Spend less time searching for loads and develop a few regular customer,
+    broker or lane relationships."
+  - "I'd spend less time hunting loads. I'd like two or three people I work with
+    regularly and know I'm going to have decent freight most weeks. I'm not really
+    trying to have ten trucks."
+
+credibility_quotes:
+  - "I'm the person you're dealing with. I'm driving the truck, and if you call,
+    you're talking to me. I try to do what I said I was going to do."
+  - "Probably because I answer the phone and keep them updated. If something
+    changes, I let them know instead of waiting until there's a problem."
+  - "Usually my company name, phone number and whatever carrier information they
+    ask me for. I don't really have anything to send them about the business."
+
+top_priorities:
+  - "more direct customers"
+  - "more repeat lanes"
+  - "less time searching for loads"
+
+desired_online_actions:
+  - "call"
+  - "email"
+  - "ask about availability"
+  - "save/contact company as a potential carrier"
+
+interviewer_notes:
+  - "owner is focused on improving the existing one-truck operation rather than building a large fleet"
+  - "several repeat broker relationships exist but there is no systematic contact/follow-up process"
+  - "simulated interview took approximately 11 minutes"
